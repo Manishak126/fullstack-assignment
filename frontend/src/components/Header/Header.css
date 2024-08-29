@@ -1,0 +1,42 @@
+.header{
+    margin-top: -3.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #dadbf0;
+    padding: 8rem;
+    margin-bottom: 3rem;
+}
+
+.header h1{
+    font-size: 3.5rem;
+    font-weight: 400;
+    padding-bottom: 1rem;
+}
+
+.search-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.header input{
+    padding: 1rem;
+    padding-right: 3rem;
+        /* Space for the icon */
+    width:34rem;
+    height: 3rem;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search-icon {
+    position: absolute;
+    right: 0.5rem;
+    /* Adjust as needed */
+    font-size: 1.5rem;
+    /* Adjust as needed */
+    color: #333;
+    /* Adjust as needed */
+}

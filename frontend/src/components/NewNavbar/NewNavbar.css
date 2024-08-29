@@ -1,0 +1,28 @@
+.help-nav{
+    margin: 0.2rem;
+    padding: 1rem 3rem;
+    border-top-left-radius: 15px;
+    border-top-Right-radius: 15px;
+    background-color: black;
+    color: white;
+}
+
+.help-nav a{
+    font-weight: 500;
+}
+
+.request-btn{
+    width: 12rem;
+    padding: 0.7rem;
+    color: white;
+    background-color:rgba(128, 128, 128, 0.288);
+    border: 1px solid white;
+    border-radius: 0.6rem;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+     
+}
+
+.request-btn:hover{
+    background-color:rgba(128, 128, 128, 0.734); ;
+}
