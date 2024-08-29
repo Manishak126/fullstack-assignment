@@ -1,27 +1,6 @@
-# Help Center API Assignment
-
-## Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
-   ```
-
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
-
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
-
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
-
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
-
----
-
+![Screenshot (224)](https://github.com/user-attachments/assets/b4c2a180-3144-4750-b2b8-066f88343a11)
+![Screenshot (225)](https://github.com/user-attachments/assets/b4c95000-d583-4c54-9d3c-10f64bb63bde)
+![Screenshot (226)](https://github.com/user-attachments/assets/e0db5781-74a4-44e6-9dc8-18e34186e6f5)
+![Screenshot (227)](https://github.com/user-attachments/assets/b52d7541-394f-4172-bf7c-294d7611b351)
+![Screenshot (229)](https://github.com/user-attachments/assets/0a76b76c-d6c8-417c-8d01-1c15906fdd62)
+![Screenshot (230)](https://github.com/user-attachments/assets/780aea3d-2bc8-4700-bd83-a16e6eca1360)
