@@ -1,18 +1,11 @@
 const mongoose = require("mongoose");
-const mongoURI = "mongodb://localhost:27017/inotebook";
 
-// The connect function no longer accept call backs but async await.
-
-// const connectToMongo=()=>{
-// moongoose.connect(mongoURI, ()=>{
-//     console.log("Connected to MongoDB Successfully");
-// })
-// }
-async function connectToMongo() {
+const connectDB = async () => {
   await mongoose
-    .connect(mongoURI)
-    .then(() => console.log("Connected to Mongo Successfully"))
-    .catch((err) => console.log(err));
-}
+    .connect(
+      "mongodb+srv://manishakri126:manisha_123@cluster0.j9n42.mongodb.net/fullstack-assignment"
+    )
+    .then(() => console.log("Connected to database successfully"));
+};
 
-module.exports = connectToMongo;
+module.exports = connectDB;
